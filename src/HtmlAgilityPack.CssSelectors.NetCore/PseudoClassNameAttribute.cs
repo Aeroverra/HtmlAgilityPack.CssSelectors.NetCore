@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HtmlAgilityPack.CssSelectors.NetCore
+namespace Tech.Aerove.HtmlAgilityPack.CssSelectors
 {
     [AttributeUsage(AttributeTargets.Class)]
     public class PseudoClassNameAttribute : Attribute

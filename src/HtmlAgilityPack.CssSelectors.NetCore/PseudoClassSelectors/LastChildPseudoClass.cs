@@ -1,6 +1,7 @@
 ﻿using System.Linq;
+using HtmlAgilityPack;
 
-namespace HtmlAgilityPack.CssSelectors.NetCore.PseudoClassSelectors
+namespace Tech.Aerove.HtmlAgilityPack.CssSelectors.PseudoClassSelectors
 {
     [PseudoClassName("last-child")]
     internal class LastChildPseudoClass : PseudoClass

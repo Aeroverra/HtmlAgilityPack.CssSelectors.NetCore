@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Description>.Net Core version of HtmlAgilityPack.CssSelector which use the .Net Core version of HtmlAgilityPack</Description>
+    <AssemblyTitle>.Net Core version of HtmlAgilityPack.CssSelector which use the .Net Core version of HtmlAgilityPack</AssemblyTitle>
+    <Authors>Nicholas Halka | Thibaut Renoncourt</Authors>
+    <TargetFrameworks>netstandard2.0;netstandard1.5</TargetFrameworks>
+    <AssemblyName>Tech.Aerove.HtmlAgilityPack.CssSelectors</AssemblyName>
+    <PackageId>Tech.Aerove.HtmlAgilityPack.CssSelectors</PackageId>
+    <PackageTags>HtmlAgilityPack;HtmlAgilityPack.NetCore;Css</PackageTags>
+    <PackageProjectUrl>https://github.com/Aeroverra/HtmlAgilityPack.CssSelectors.NetCore</PackageProjectUrl>
+    <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
+    <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
+    <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
+    <Version>1.0.0</Version>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Tech.Aerove.HtmlAgilityPack.CssSelectors</Title>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="HtmlAgilityPack" Version="1.6.16" />
+  </ItemGroup>
+
+</Project>

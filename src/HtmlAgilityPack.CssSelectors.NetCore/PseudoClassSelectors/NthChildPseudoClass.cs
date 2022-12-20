@@ -1,4 +1,5 @@
-﻿namespace HtmlAgilityPack.CssSelectors.NetCore.PseudoClassSelectors
+﻿using HtmlAgilityPack;
+namespace Tech.Aerove.HtmlAgilityPack.CssSelectors.PseudoClassSelectors
 {
     [PseudoClassName("nth-child")]
     internal class NthChildPseudoClass : PseudoClass

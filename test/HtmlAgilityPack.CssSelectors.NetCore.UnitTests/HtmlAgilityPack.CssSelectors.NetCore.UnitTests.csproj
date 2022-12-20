@@ -25,7 +25,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\HtmlAgilityPack.CssSelectors.NetCore\HtmlAgilityPack.CssSelectors.NetCore.csproj" />
+    <ProjectReference Include="..\..\src\HtmlAgilityPack.CssSelectors.NetCore\HtmlAgilityPack.CssSelectors.csproj" />
   </ItemGroup>
 
   <ItemGroup>

@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
-
-namespace HtmlAgilityPack.CssSelectors.NetCore
+using HtmlAgilityPack;
+namespace Tech.Aerove.HtmlAgilityPack.CssSelectors
 {
     public abstract class PseudoClass
     {

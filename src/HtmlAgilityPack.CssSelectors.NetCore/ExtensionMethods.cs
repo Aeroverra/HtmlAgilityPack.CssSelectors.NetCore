@@ -1,8 +1,9 @@
-﻿using System;
+﻿using HtmlAgilityPack;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace HtmlAgilityPack.CssSelectors.NetCore
+namespace Tech.Aerove.HtmlAgilityPack.CssSelectors
 {
     public static partial class HapCssExtensionMethods
     {

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Text;
 
-namespace HtmlAgilityPack.CssSelectors.NetCore
+namespace Tech.Aerove.HtmlAgilityPack.CssSelectors
 {
     public class Tokenizer
     {

@@ -1,6 +1,6 @@
 ﻿using System.Linq;
-
-namespace HtmlAgilityPack.CssSelectors.NetCore.PseudoClassSelectors
+using HtmlAgilityPack;
+namespace Tech.Aerove.HtmlAgilityPack.CssSelectors.PseudoClassSelectors
 {
     [PseudoClassName("not")]
     internal class NotPseudoClass : PseudoClass

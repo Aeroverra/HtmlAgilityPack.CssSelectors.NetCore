@@ -2,9 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
-using HtmlAgilityPack.CssSelectors.NetCore.Selectors;
+using Tech.Aerove.HtmlAgilityPack.CssSelectors.Selectors;
+using HtmlAgilityPack;
 
-namespace HtmlAgilityPack.CssSelectors.NetCore
+namespace Tech.Aerove.HtmlAgilityPack.CssSelectors
 {
     public abstract class CssSelector
     {

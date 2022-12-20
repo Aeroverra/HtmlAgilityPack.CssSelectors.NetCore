@@ -1,7 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
+using HtmlAgilityPack;
 
-namespace HtmlAgilityPack.CssSelectors.NetCore.Selectors
+namespace Tech.Aerove.HtmlAgilityPack.CssSelectors.Selectors
 {
     internal class SiblingImediateSelector : CssSelector
     {

@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
+using HtmlAgilityPack;
 
-namespace HtmlAgilityPack.CssSelectors.NetCore.Selectors
+namespace Tech.Aerove.HtmlAgilityPack.CssSelectors.Selectors
 {
     internal class AllSelector : CssSelector
     {

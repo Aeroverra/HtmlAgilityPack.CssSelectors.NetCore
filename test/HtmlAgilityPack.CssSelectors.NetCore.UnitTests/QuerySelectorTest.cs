@@ -2,8 +2,9 @@
 using System.Text;
 using System.Linq;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using HtmlAgilityPack;
 
-namespace HtmlAgilityPack.CssSelectors.NetCore.UnitTests
+namespace Tech.Aerove.HtmlAgilityPack.CssSelectors.UnitTests
 {
     [TestClass]
     public class QuerySelectorTest
